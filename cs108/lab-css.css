@@ -1,0 +1,57 @@
+body {
+    background-color: beige;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-left: auto;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+nav {
+  display: block;
+  justify-content: space-between;
+  align-items: center;
+}
+#page1 {
+    background-color: lightblue;
+    color: darkblue;
+    font: bold 20px Arial, sans-serif;
+}
+#page2 {
+    background-color: lightcoral;
+    color: darkred;
+    font: italic 20px Arial, sans-serif;
+}
+#page3 {
+    background-color: red;
+    color: darkred;
+    font: underline 20px Arial, sans-serif;
+}
+#page4 {
+    background-color: greenyellow;
+    color: darkgreen;
+    font: bold 20px Helvetica, sans-serif;
+}
+#page5 {
+    background-color: green;
+    color: lightgreen;
+    font: italic 20px Helvetica, sans-serif;
+}
+#page6 {
+    background-color: lightgray;
+    color: gray;
+    font: underline 20px Helvetica, sans-serif;
+}
+#end {
+    background-color: yellowgreen;
+    color: darkgreen;
+    font: bold 20px Arial, sans-serif;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: darkgrey;
+}
